@@ -1,6 +1,8 @@
-# Spring Batch Examples - File From File
+# Spring Batch Examples - Read From File
 
-Project with examples using Spring Batch. In this project there are configurations regarding ETL: File to DB, ugin FlatFileItemReader and JdbcBatchItemWriter.
+Project with examples using Spring Batch.
+
+In this project there are configurations regarding read data from file and write to console log.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
